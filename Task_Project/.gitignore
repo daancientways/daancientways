@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+db.sqlite3
+env/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.swp
+.venv/
+*.sqlite3
+*.coveragerc
+.idea/
+*.egg-info/
